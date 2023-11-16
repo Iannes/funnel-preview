@@ -63,10 +63,7 @@ export enum DeviceDimensions {
 export type FunnelData = {
   name: string;
   bgColor: string;
-  pages: Array<{
-    id: string;
-    blocks: Array<Block>;
-  }>;
+  pages: Page[]
 };
 
 export type ErrorMessageState = {
