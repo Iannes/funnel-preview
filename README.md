@@ -28,7 +28,7 @@ The primary goal is to provide users with the ability to preview their funnels f
 
 ### Components
 
-Located under the `src/components` directory, each component is organized within its own folder following the structure below:
+Located under the `src/components/ui` directory, each component is organized within its own folder following the structure below:
 
 - `ComponentNameFolder/`
   - `ComponentName.tsx`: This file contains the component logic.
